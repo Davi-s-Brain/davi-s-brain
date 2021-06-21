@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hello there!
+### I'm *Davi Batista*
+---
+The answer for everything is 42
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davi-s-brain&show_icons=true&theme=chartreuse-dark&icon_color=ffffff)
+
 
 <!--
 **Davi-s-Brain/davi-s-brain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
