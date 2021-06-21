@@ -5,7 +5,7 @@ The answer for everything is 42
 
 <div>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=davi-s-brain&show_icons=true&theme=chartreuse-dark&icon_color=ffffff">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-s-brain&layout=compact&theme=chartreuse-dark">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-s-brain&layout=compact&langs_count=6&card_width=250&theme=chartreuse-dark">
 </div>
 
 <div style="display: inline_block"><br>
